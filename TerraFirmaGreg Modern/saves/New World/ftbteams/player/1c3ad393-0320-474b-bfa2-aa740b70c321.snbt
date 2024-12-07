@@ -1,0 +1,17 @@
+{
+	id: "1c3ad393-0320-474b-bfa2-aa740b70c321"
+	type: "player"
+	player_name: "Vegely"
+	ranks: {
+		1c3ad393-0320-474b-bfa2-aa740b70c321: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Vegely"
+		"ftbteams:description": ""
+		"ftbteams:color": "#D8FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
